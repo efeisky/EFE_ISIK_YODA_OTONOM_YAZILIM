@@ -1,0 +1,13 @@
+Toplam Ölçüm Sayısı: 61
+Eksik Ölçüm Sayısı: 2
+Uygun Ölçüm Sayısı: 59
+--------------------------------
+Ortalama Hız: 15.724
+Max Hız: 34.4
+Max Hızın Yapıldığı Saniye: 41
+--------------------------------
+Durma Süresi: 15
+Limit Aşım Süresi: 9
+--------------------------------
+Aldığı Mesafe: 257.694 metre
+--------------------------------
